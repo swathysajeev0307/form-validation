@@ -1,0 +1,14 @@
+return /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(email);
+
+
+
+{
+
+
+	This file is required for the development of the 
+	FORM Validation project for the email validation code,
+	which isEmail() Validation function (This entire Regx code
+	is needed)
+
+	NOTE: Also this entire text code from the file.
+}
